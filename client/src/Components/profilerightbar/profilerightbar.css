@@ -1,0 +1,56 @@
+.profilerightbar{
+   flex: 1; 
+} 
+
+
+.friendsimage{
+    width: 60px; 
+    height: 60px; 
+    object-fit: cover; 
+    border-radius: 10px;
+} 
+
+.container45{
+ width: 20pc; 
+ height: 34vh; 
+ background-color: white; 
+ margin-top: 20px; 
+ border-radius: 15px; 
+ overflow: hidden; 
+ border-radius: 15px;   
+ overflow: hidden;  
+ overflow-y: scroll;
+
+} 
+
+.info_3{
+    display: flex; 
+    align-items: center; 
+    margin-left: 10px; 
+    cursor: pointer; 
+    margin-bottom: 10px;
+} 
+
+.text5{
+    text-align: start; 
+    margin-left: 10px;
+} 
+.rightcontainer h3{
+    margin-left: 10px;
+}  
+
+.heading1{
+    text-align: start; 
+    margin-left: 10px; 
+    margin-top: 20px;
+} 
+.container46{ 
+    width: 20pc;  
+    height: 60vh; 
+    background: white; 
+    margin-top: 20px; 
+    border-radius: 15px; 
+    overflow: hidden; 
+    overflow-y: scroll;
+    
+}

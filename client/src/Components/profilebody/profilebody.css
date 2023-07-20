@@ -1,0 +1,21 @@
+.profilebody{
+    flex: 3; 
+   
+    
+}
+.coverimg{
+    width: 96%; 
+    border-radius: 10px;  
+    height: 20vh;
+    object-fit: cover; 
+    margin-top: 20px;
+    margin-left: 20px; 
+    margin-bottom: 5px;
+} 
+h2{
+    margin-top: -43px; 
+    color: white; 
+    text-align: start; 
+    margin-left: 34px; 
+    margin-bottom: 5px;
+}

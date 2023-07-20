@@ -1,0 +1,62 @@
+.sidebar{
+    flex: 1;
+} 
+.notification{
+    width: 18pc; 
+    height: 60vh; 
+    background-color: white; 
+    margin-top: 20px; 
+    border-radius: 20px;  
+    overflow: hidden; 
+    overflow-y: scroll;
+    
+} 
+
+.headertcontainer{
+    display: flex; 
+    justify-content: space-around; 
+
+}  
+
+.profilepic{
+    width: 30px; 
+    height: 30px; 
+    border-radius: 50%; 
+    margin-left: 10px;
+} 
+
+.likedpost{
+    width: 30px; 
+    height: 30px;  
+    border-radius: 3px; 
+    margin-left: 43px;
+} 
+.contentcontainer{
+    display: flex; 
+    align-items: center; 
+    margin-top: -10px; 
+    margin-bottom: 10px;
+} 
+.followerphoto{
+    width: 35px; 
+    height: 35px; 
+    border-radius: 50%; 
+    margin-left: 40px;
+} 
+.contentcontainer p{
+    margin-left: 5px; 
+    color: #aaa; 
+     
+    width: 120px; 
+    text-align: start;
+} 
+
+.exploreimage{
+    width: 86px; 
+    margin-left: 6px; 
+    height: 150px; 
+    object-fit: cover; 
+    border-radius: 4px; 
+    margin-top: 6px;
+}
+

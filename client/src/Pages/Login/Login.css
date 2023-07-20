@@ -1,0 +1,71 @@
+.registercontainer{
+    background-color: #f0f2f5; 
+    height: 100vh;
+}
+
+.submaincontainer{
+    display: flex; 
+    align-items: center;
+    padding-top: 200px;
+} 
+
+
+.logotext{
+    font-size: 40px; 
+    text-align: start; 
+    margin-left: 0px;
+} 
+
+
+.intro{
+    font-size: 20px; 
+    text-align: start; 
+    margin-top: -30px;
+}
+.createaccount{
+    font-size: 20px; 
+    margin-left: 10px; 
+    text-align: start; 
+    margin-left: 2%;
+    
+} 
+.input{
+    display: flex; 
+    margin-left: 30px; 
+    width: 40%; 
+    margin-top: 20px; 
+    padding: 10px; 
+    border: none; 
+    border-radius: 10px;
+} 
+#file{
+    display: flex; 
+    margin-left: 30px; 
+    
+    margin-top: 20px; 
+    padding: 10px; 
+   
+
+    border-radius: 10px; 
+} 
+
+.btnsubmit{
+    margin-left: 2%;   
+    width: 42%; 
+    margin-top: 10px; 
+    border-radius: 10px; 
+    padding-left: 180px; 
+    padding-right: 202px; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    cursor: pointer;
+
+} 
+.text98{
+    text-align: start; 
+    margin-left: 30.6%; 
+    
+} 
+.part{
+    color: rgb(167, 127, 127);
+} 

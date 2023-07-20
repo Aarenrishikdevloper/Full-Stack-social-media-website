@@ -1,0 +1,57 @@
+.imgprofile{
+    height: 20px; 
+    width: 20px ; 
+    border-radius: 50%; 
+    margin-left: 20px;
+} 
+.mainnavbar{
+  display: flex; 
+  
+  background-color: white; 
+  margin: auto; 
+  justify-content: space-between;   
+  width: 100%; 
+  border-bottom-left-radius: 13px; 
+  border-bottom-right-radius: 13px;
+
+}  
+.logocontainer{
+    flex: 0.2;
+} 
+.searchcontainer{
+  display: flex; 
+  align-items: center; 
+  flex: 4; 
+  margin-top: 9px; 
+  background-color: rgb(224, 228 , 232); 
+  padding: 5px; 
+  border-radius: 10px;
+} 
+.serach{
+    width: 33pc; 
+    border: none; 
+    padding: 4px; 
+    border-radius: 10px; 
+    background-color: rgb(224, 228 , 232);
+}
+.serach:focus{
+    outline: none;
+} 
+
+.iconcontainer{
+    display: flex; 
+    align-items: center; 
+    flex: 0.22;
+} 
+.profilecontaine{
+    display: flex; 
+    align-items: center; 
+
+
+
+} 
+.logout{
+    margin-right: 30px; 
+    margin-left: 20px; 
+    cursor: pointer;
+}

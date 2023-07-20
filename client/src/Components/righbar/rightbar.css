@@ -1,0 +1,55 @@
+.rightcontainer{
+  flex: 1;
+} 
+
+.poster{
+    width: 130px; 
+    height: 80px; 
+    object-fit: cover;
+} 
+
+.first{
+    width: 20pc;  
+    height: 25vh; 
+    background: white; 
+    margin-top: 20px; 
+    border-radius: 15px; 
+    
+}  
+
+.adscontainer{
+    display: flex; 
+    align-items: center; 
+    margin-left: 10px; 
+    padding: 10px;
+} 
+
+.text1{
+    text-align: start; 
+    margin-left: 10px; 
+    
+}  
+
+.text2{
+    text-align: start; 
+    margin-left: 10px; 
+    font-size: 12px;  
+    color: grey;
+} 
+
+.secound{
+    width: 20pc;  
+    height: 60vh; 
+    background: white; 
+    margin-top: 20px; 
+    border-radius: 15px; 
+    overflow: hidden; 
+    overflow-y: scroll;
+}
+
+.heading2{
+    text-align: start; 
+    margin-left: 10px; 
+    margin-top: 20px;
+}  
+

@@ -1,0 +1,37 @@
+.container{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+
+} 
+
+.profilecontainer{
+    display: flex; 
+    align-items: center;
+} 
+.text1{
+    margin-left: 10px; 
+    text-align: start;
+} 
+
+.text2{
+    margin-left: 10px; 
+    text-align: start; 
+    margin-top: -16px; 
+    font-size: 11px; 
+    color: #aaa;
+}
+.profilepic{
+    width: 40px; 
+    height: 40px; 
+    border-radius: 50%; 
+    margin-left: 20px;
+} 
+.button{
+    background-color: #aaa; 
+    padding: 10px; 
+    margin-right: 20px; 
+    border-radius: 50%; 
+    cursor: pointer;
+}
+
